@@ -17,7 +17,8 @@ _DISCLAIMER: Read recent user reviews before installing, and check default setti
 * NoFT: [Website](https://noft.gg) | [Chrome](https://chrome.google.com/webstore/detail/noft/ignbemmolegaffpapcfpbadjnijbalfl) | ~~[Firefox](https://addons.mozilla.org/en-US/firefox/addon/noft/)~~ | [GitHub](https://github.com/ottomated/noft)
 * Block The Blue - Twitter Verified Blocker: [Chrome](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
 ### Highlighting/annotating harmful content/users
-* Shinigami Eyes: [Chrome](https://chrome.google.com/webstore/detail/shinigami-eyes/ijcpiojgefnkmcadacmacogglhjdjphj) | [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/shinigami-eyes/)
+* Soupcan: [Guide](https://bethylamine.github.io/library/browser-extension/) | [Chrome](https://chrome.google.com/webstore/detail/soupcan/hcneafegcikghlbibfmlgadahjfckonj) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/soupcan/) | [Website](https://beth.lgbt) | [GitHub](https://bethylamine.github.io)
+* Shinigami Eyes: [Chrome](https://chrome.google.com/webstore/detail/shinigami-eyes/ijcpiojgefnkmcadacmacogglhjdjphj) | [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/shinigami-eyes/) | [GitHub](https://github.com/shinigami-eyes/shinigami-eyes)
 * NewsGuard: [Chrome](https://chrome.google.com/webstore/detail/newsguard/hcgajcpgaalgpeholhdooeddllhedegi) | [Website](https://www.newsguardtech.com)
 * Bot Sentinel: [Chrome](https://chrome.google.com/webstore/detail/bot-sentinel/eadmnplpcakhnmjbaioeholpakbknhgc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bot-sentinel/) | [Website](https://botsentinel.com)
 ### User script managers
@@ -29,3 +30,10 @@ _DISCLAIMER: Read recent user reviews before installing, and check default setti
 * Old Twitter Layout (2023): [Chrome](https://chrome.google.com/webstore/detail/old-twitter-layout-2023/jgejdcdoeeabklepnkdbglgccjpdgpmf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/old-twitter-layout-2022/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/old-twitter-layout-2023/hdkjgmbkdljifoabcjaopefegogcinal) | [Gitub](https://github.com/dimdenGD/OldTwitter/) | [Website](https://dimden.dev)
 * Hide Twitter Ads - Block Promoted Tweets: [Chrome](https://chrome.google.com/webstore/detail/hide-twitter-ads-block-pr/bapmhjebfdbdpjjfafnkfidijkjlkakf) | [GitHub](https://github.com/ryanckulp/twitter_ad_blocker)
 * ~~GoodTwitter (DEPRECATED): [Chrome](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) | [GitHub](https://github.com/ZusorCode/GoodTwitterChrome)~~
+### Scripts and code snippets
+* Tampermonkey (script manager): [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+* Greasemonkey (script manager): [Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+* ViolentMonkey (script manager): [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+* Twitter Block With Love (browser script manager required): [Website](https://greasyfork.org/en/scripts/398540-twitter-block-with-love)
+### Miscellaneous
+* Twitter Block Tools (compilation of Twitter safety tools; outdated/unmaintained): [Website](https://twtblocktools.carrd.co)
