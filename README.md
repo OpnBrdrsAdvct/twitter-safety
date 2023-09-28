@@ -1,7 +1,7 @@
 # Twitter Safety and Security
 
 ## Browser extensions
-_DISCLAIMER: Read recent user reviews before installing, and check default settings before enabling/launching (DYOR and use at your own risk)._
+_DISCLAIMER: Read recent user reviews before installing, and check default settings before enabling/launching (DYOR and use at your own risk). Also, please note that some tools, extensions, and/or specific features may no longer be functioning/available due to the many recent changes at Twitter._
 ### Chain-blocking harmful content/users
 * Red Block: [Chrome](https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/red-block/)
 * Twitter One Click Block (not necessary if Red Block is installed; becomes redundant): [Chrome](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/twitter-oneclick-block/)
