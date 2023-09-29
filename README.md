@@ -24,16 +24,14 @@ _DISCLAIMER: Read recent user reviews before installing or using any of the tool
 ### User script managers
 * Tampermonkey: [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [Website](https://www.tampermonkey.net)
 * Greasemonkey: [Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) | [Website](https://wiki.greasespot.net)
-* Violentmonkey: [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) | [GitHub](https://violentmonkey.github.io)
+* Violentmonkey: [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) | [GitHub](https://violentmonkey.github.io)
 ### User interface/layout modifications
 * Eight Dollars: [Chrome](https://chrome.google.com/webstore/detail/eight-dollars/fjbponfbognnefnmbffcfllkibbbobki) | [GitHub](https://github.com/wseagar/eight-dollars)
 * Old Twitter Layout (2023): [Chrome](https://chrome.google.com/webstore/detail/old-twitter-layout-2023/jgejdcdoeeabklepnkdbglgccjpdgpmf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/old-twitter-layout-2022/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/old-twitter-layout-2023/hdkjgmbkdljifoabcjaopefegogcinal) | [Gitub](https://github.com/dimdenGD/OldTwitter/) | [Website](https://dimden.dev)
 * Hide Twitter Ads - Block Promoted Tweets: [Chrome](https://chrome.google.com/webstore/detail/hide-twitter-ads-block-pr/bapmhjebfdbdpjjfafnkfidijkjlkakf) | [GitHub](https://github.com/ryanckulp/twitter_ad_blocker)
 * ~~GoodTwitter (DEPRECATED): [Chrome](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) | [GitHub](https://github.com/ZusorCode/GoodTwitterChrome)~~
 ### Scripts and code snippets
-* Tampermonkey (script manager): [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-* Greasemonkey (script manager): [Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-* ViolentMonkey (script manager): [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+* Block The Blue (JavaScript): [GitHub](https://gist.github.com/adalinesimonian/b52a753c9fd6c176598745df01ba12dc)
 * Twitter Block With Love (browser script manager required): [Website](https://greasyfork.org/en/scripts/398540-twitter-block-with-love)
 ### Miscellaneous
 * Twitter Block Tools (compilation of Twitter safety tools; outdated/unmaintained): [Website](https://twtblocktools.carrd.co)
