@@ -3,7 +3,7 @@
 ## Browser extensions
 _DISCLAIMER: Read recent user reviews before installing or using any of the tools, resources, or extensions below, and check default settings before activating/launching them (DYOR and use at your own risk). Also, please note that some of these resources and/or specific features may no longer be functioning/available due to the many recent changes at Twitter._
 ### Chain-blocking harmful content/users
-* Red Block: [Chrome](https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/red-block/)
+* Red Block: [Chrome](https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/red-block/) | [GitHub](https://github.com/gaeulbyul/RedBlock)
 * Twitter One Click Block (not necessary if Red Block is installed; becomes redundant): [Chrome](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/twitter-oneclick-block/)
 * DoucheBlock for Twitter: [Chrome](https://chrome.google.com/webstore/detail/doucheblock-for-twitter/eeledoologbepiegnccedjigjkblhmhi) | [GitHub](https://github.com/MobileFirstLLC/doucheblock) | [Website](https://oss.mobilefirst.me)
 * Mirror Block: [Chrome](https://chrome.google.com/webstore/detail/mirror-block/hbpjabpglddifkpjeiggalbnpjmhkkac) | [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/mirror-block/)
