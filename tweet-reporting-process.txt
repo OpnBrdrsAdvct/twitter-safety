@@ -1,0 +1,71 @@
+Tweet Reporting Process on Twitter (Updated 2024/10/04)
+
+Hate - Slurs, Racist or sexist stereotypes, Dehumanization, Incitement of fear or discrimination, Hateful references, Hateful symbols & logos
+    ->
+        Slurs & Tropes - We prohibit targeting others with repeated slurs, tropes or other content that intends to degrade or reinforce negative or harmful stereotypes about a protected category
+        Hateful References - We prohibit targeting individuals or groups with content that references forms of violence or violent events where a protected category was the primary target or victims, where the intent is to harass
+        Dehumanization - We prohibit the dehumanization of a group of people based on their religion, caste, age, disability, serious disease, national origin, race, ethnicity, gender, gender identity, or sexual orientation
+        Hateful Imagery - We prohibit the use of logos, symbols, or images whose purpose is to promote hostility and malice against others based on their race, religion, disability, sexual orientation, gender identity or ethnicity/national origin
+        Incitement - Encouraging others to deny support to a business or service, or spreading fear against me or a group of people, because of their identity
+
+Abuse & Harassment - Insults, Unwanted Sexual Content & Graphic Objectification, Unwanted NSFW & Graphic Content, Violent Event Denial, Targeted Harassment and Inciting Harassment
+    ->
+        Unwanted NSFW & Graphic Content - We prohibit targeting others with unwanted adult and graphic content
+        Targeted Harassment - We consider targeted behavior as malicious, unreciprocated, and intended to humiliate or degrade an individual(s)
+        Insults - We take action against the use of insults or profanity to target others
+        Unwanted Sexual Content & Graphic Objectification - We prohibit unwanted sexual conduct and graphic objectification that sexually objectifies an individual without their consent
+        Violent Event Denial - We prohibit content that denies that mass murder or other mass casualty events took place, where we can verify that the event occurred, and when the content is shared with abusive context.
+        Inciting Harassment - We prohibit behavior that encourages others to harass or target specific individuals or groups of people with abuse
+
+Violent Speech - Violent Threats, Wish of Harm, Glorification of Violence, Incitement of Violence, Coded Incitement of Violence
+    ->
+        Violent Threats - You may not threaten to inflict physical harm on others, which includes (but is not limited to) threatening to kill, torture, sexually assault, or otherwise hurt someone
+        Glorification of Violence - You may not glorify, praise, or celebrate acts of violence where harm occurred, which includes (but is not limited to) expressing gratitude that someone experienced physical harm or praising Violent entities and Perpetrators of Violent Attacks. This also includes glorifying animal abuse or cruelty.
+        Incitement of Violence - You may not incite, promote, or encourage others to commit acts of violence or harm, which includes (but is not limited to) encouraging others to hurt themselves or inciting others to commit atrocity crimes including crimes against humanity, war crimes or genocide.
+        Wish of Harm - You may not wish, hope, or express desire for harm. This includes (but is not limited to) hoping for others to die, suffer illnesses, tragic incidents, or experience other physically harmful consequences.
+        Coded Incitement of Violence - You may not use coded language (often referred to as "dog whistles") to indirectly incite violence.
+
+Child Safety - Child sexual exploitation, grooming, physical child abuse, underage user
+    ->
+        Selling or distributing sexually explicit content involving a minor
+        Sexualization of minors
+        Grooming or online enticement of minors
+        Child sex trafficking
+        Physical child abuse - Including media of children in physical altercations, victims of bullying or abuse
+        Minor at risk (e.g, adult with access to minor expressing desire to engage in sexual act)
+        Illustrated, cartoon, computer generated media depicting a minor engaging in a sexual act or child-like sex doll
+        Underage user
+        Normalizing or glorifying acts of child sexual exploitation
+
+Privacy - Sharing private information, threatening to share/expose private information, sharing non-consensual intimate images, sharing images of me that I don’t want on the platform
+    ->
+        Sharing private personal information without permission
+        Threatening to share/expose private personal information
+        Sharing a sexual, nude, or intimate photo/video of me or someone without permission
+        Sharing a photo/video of me that I do not want on the platform
+
+Spam - Financial scams, posting malicious links, misusing hashtags, fake engagement, repetitive replies, Retweets, or Direct Messages
+    @
+
+Suicide or self-harm - Encouraging, promoting, providing instructions or sharing strategies for self-harm.
+    ->
+        Asking others for encouragement to engage in self-harm or suicide
+        Sharing info, strategies, or methods that would help people self-harm
+        Expressing tendencies or intention to engage in self-harm or suicide
+
+Sensitive or disturbing media - Graphic Content, Gratutitous Gore, Adult Nudity & Sexual Behavior, Violent Sexual Conduct, Bestiality & Necrophilia, Media depicting a deceased individual
+    ->
+        Graphic Content - Graphic content is any media that depicts death, violence, medical procedures, or serious physical injury in graphic detail of humans or animals
+        Gratuitious Gore - Gratuitous gore is any media that depicts excessively graphic or gruesome content related to death, violence or severe physical harm, or graphic content that is shared for sadistic purposes. This includes animal abuse & cruelty.
+        I am a family member or authorized reporter and I am reporting media depicting a deceased individual   -
+        Violent sexual conduct - Violent sexual conduct is any media that depicts violence, whether real or simulated, in association with sexual acts.
+        Besitiality & Necrophilia - Bestiality is any media that depicts sexual acts between a human and an animal. Necrophilia is any media that depicts sexual acts between a living human and a human corpse.
+        Adult Nudity & Sexual Behavior - Any consensually produced and distributed media that is pornographic or intended to cause sexual arousal.
+
+Deceptive identities - Impersonation, non-compliant parody/fan accounts
+    ->
+        Pretending to be me, my brand or a user that I represent
+        Someone else on X is being impersonated
+
+Violent & hateful entities - Violent extremism and terrorism, hate groups & networks
+    @
