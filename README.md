@@ -26,11 +26,13 @@ _DISCLAIMER: Read recent user reviews before installing or using any of the tool
 * Greasemonkey: [Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) | [Website](https://wiki.greasespot.net)
 * Violentmonkey: [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) | [GitHub](https://violentmonkey.github.io)
 ### User interface/layout modifications
-* Eight Dollars: [Chrome](https://chrome.google.com/webstore/detail/eight-dollars/fjbponfbognnefnmbffcfllkibbbobki) | [GitHub](https://github.com/wseagar/eight-dollars)
+* Control Panel for Twitter: [Chrome](https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj) | [Firefox](https://addons.mozilla.org/firefox/addon/control-panel-for-twitter/) | [Safari](https://apps.apple.com/us/app/control-panel-for-twitter/id1668516167) | [Edge](https://microsoftedge.microsoft.com/addons/detail/control-panel-for-twitter/foccddlibbeccjiobcnakipdpkjiijjp) | [Website](https://jbscript.dev/control-panel-for-twitter) | [GitHub](https://github.com/insin/control-panel-for-twitter)
 * Old Twitter Layout (2023): [Chrome](https://chrome.google.com/webstore/detail/old-twitter-layout-2023/jgejdcdoeeabklepnkdbglgccjpdgpmf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/old-twitter-layout-2022/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/old-twitter-layout-2023/hdkjgmbkdljifoabcjaopefegogcinal) | [Gitub](https://github.com/dimdenGD/OldTwitter/) | [Website](https://dimden.dev)
+* Eight Dollars: [Chrome](https://chrome.google.com/webstore/detail/eight-dollars/fjbponfbognnefnmbffcfllkibbbobki) | [GitHub](https://github.com/wseagar/eight-dollars)
 * Hide Twitter Ads - Block Promoted Tweets: [Chrome](https://chrome.google.com/webstore/detail/hide-twitter-ads-block-pr/bapmhjebfdbdpjjfafnkfidijkjlkakf) | [GitHub](https://github.com/ryanckulp/twitter_ad_blocker)
 * ~~GoodTwitter (DEPRECATED): [Chrome](https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca) | [GitHub](https://github.com/ZusorCode/GoodTwitterChrome)~~
 ### Scripts and code snippets
+* Control Panel for Twitter (user script version; see above for extensions/addons): [GreasyFork](https://greasyfork.org/en/scripts/387773-control-panel-for-twitter)
 * Block The Blue (JavaScript): [GitHub](https://gist.github.com/adalinesimonian/b52a753c9fd6c176598745df01ba12dc)
 * Twitter Block With Love (browser script manager required): [Website](https://greasyfork.org/en/scripts/398540-twitter-block-with-love)
 ### Miscellaneous
